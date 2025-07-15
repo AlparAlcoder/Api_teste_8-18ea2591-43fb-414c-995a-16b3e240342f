@@ -1,1 +1,20 @@
-# Api_teste_8-18ea2591-43fb-414c-995a-16b3e240342f
+# Api_teste_8
+
+## Descrição
+# Documentação API FastAPI
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
